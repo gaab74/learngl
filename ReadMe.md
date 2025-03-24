@@ -19,7 +19,7 @@ These are the chapters I've already read:
 #### Getting Started
 - [x] OpenGL
 - [x] Creating a Window
-- [ ] Hello Window
+- [x] Hello Window
 - [ ] Hello Triangle
 - [ ] Shaders
 - [ ] Textures
